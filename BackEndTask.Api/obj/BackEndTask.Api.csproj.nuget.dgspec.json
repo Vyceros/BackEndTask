@@ -51,6 +51,18 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -219,9 +231,6 @@
             "projectReferences": {
               "D:\\BackEndTask\\BackEndTask.Application\\BackEndTask.Application.csproj": {
                 "projectPath": "D:\\BackEndTask\\BackEndTask.Application\\BackEndTask.Application.csproj"
-              },
-              "D:\\BackEndTask\\BackEndTask.Domain\\BackEndTask.Domain.csproj": {
-                "projectPath": "D:\\BackEndTask\\BackEndTask.Domain\\BackEndTask.Domain.csproj"
               }
             }
           }
@@ -235,6 +244,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

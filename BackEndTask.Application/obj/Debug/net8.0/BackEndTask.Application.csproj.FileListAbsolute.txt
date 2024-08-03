@@ -13,3 +13,4 @@ D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\refint\BackEndTask.Application.dll
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.pdb
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\ref\BackEndTask.Application.dll
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.sourcelink.json

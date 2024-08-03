@@ -144,9 +144,6 @@
             "projectReferences": {
               "D:\\BackEndTask\\BackEndTask.Application\\BackEndTask.Application.csproj": {
                 "projectPath": "D:\\BackEndTask\\BackEndTask.Application\\BackEndTask.Application.csproj"
-              },
-              "D:\\BackEndTask\\BackEndTask.Domain\\BackEndTask.Domain.csproj": {
-                "projectPath": "D:\\BackEndTask\\BackEndTask.Domain\\BackEndTask.Domain.csproj"
               }
             }
           }
@@ -160,6 +157,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

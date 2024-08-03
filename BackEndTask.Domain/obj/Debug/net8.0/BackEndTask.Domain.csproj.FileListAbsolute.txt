@@ -9,3 +9,4 @@ D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.dll
 D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\refint\BackEndTask.Domain.dll
 D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.pdb
 D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\ref\BackEndTask.Domain.dll
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.sourcelink.json

@@ -15,3 +15,4 @@ D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastru
 D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\refint\BackEndTask.Infrastructure.dll
 D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.pdb
 D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\ref\BackEndTask.Infrastructure.dll
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.sourcelink.json
