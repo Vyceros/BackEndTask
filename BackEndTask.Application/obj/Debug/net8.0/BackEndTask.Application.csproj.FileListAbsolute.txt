@@ -1,0 +1,15 @@
+D:\BackEndTask\BackEndTask.Application\bin\Debug\net8.0\BackEndTask.Application.deps.json
+D:\BackEndTask\BackEndTask.Application\bin\Debug\net8.0\BackEndTask.Application.dll
+D:\BackEndTask\BackEndTask.Application\bin\Debug\net8.0\BackEndTask.Application.pdb
+D:\BackEndTask\BackEndTask.Application\bin\Debug\net8.0\BackEndTask.Domain.dll
+D:\BackEndTask\BackEndTask.Application\bin\Debug\net8.0\BackEndTask.Domain.pdb
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.csproj.AssemblyReference.cache
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.AssemblyInfoInputs.cache
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.AssemblyInfo.cs
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.csproj.CoreCompileInputs.cache
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.csproj.CopyComplete
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.dll
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\refint\BackEndTask.Application.dll
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.pdb
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\ref\BackEndTask.Application.dll

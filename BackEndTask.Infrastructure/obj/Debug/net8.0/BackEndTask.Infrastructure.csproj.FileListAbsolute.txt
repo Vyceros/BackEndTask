@@ -1,0 +1,17 @@
+D:\BackEndTask\BackEndTask.Infrastructure\bin\Debug\net8.0\BackEndTask.Infrastructure.deps.json
+D:\BackEndTask\BackEndTask.Infrastructure\bin\Debug\net8.0\BackEndTask.Infrastructure.dll
+D:\BackEndTask\BackEndTask.Infrastructure\bin\Debug\net8.0\BackEndTask.Infrastructure.pdb
+D:\BackEndTask\BackEndTask.Infrastructure\bin\Debug\net8.0\BackEndTask.Application.dll
+D:\BackEndTask\BackEndTask.Infrastructure\bin\Debug\net8.0\BackEndTask.Domain.dll
+D:\BackEndTask\BackEndTask.Infrastructure\bin\Debug\net8.0\BackEndTask.Application.pdb
+D:\BackEndTask\BackEndTask.Infrastructure\bin\Debug\net8.0\BackEndTask.Domain.pdb
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.csproj.AssemblyReference.cache
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.AssemblyInfoInputs.cache
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.AssemblyInfo.cs
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.csproj.CoreCompileInputs.cache
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.csproj.CopyComplete
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.dll
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\refint\BackEndTask.Infrastructure.dll
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\BackEndTask.Infrastructure.pdb
+D:\BackEndTask\BackEndTask.Infrastructure\obj\Debug\net8.0\ref\BackEndTask.Infrastructure.dll

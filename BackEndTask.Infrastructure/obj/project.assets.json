@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BackEndTask.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BackEndTask.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BackEndTask.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BackEndTask.Application.dll": {}
+        }
+      },
+      "BackEndTask.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BackEndTask.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BackEndTask.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackEndTask.Application/1.0.0": {
+      "type": "project",
+      "path": "../BackEndTask.Application/BackEndTask.Application.csproj",
+      "msbuildProject": "../BackEndTask.Application/BackEndTask.Application.csproj"
+    },
+    "BackEndTask.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BackEndTask.Domain/BackEndTask.Domain.csproj",
+      "msbuildProject": "../BackEndTask.Domain/BackEndTask.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BackEndTask.Application >= 1.0.0",
+      "BackEndTask.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\BackEndTask\\BackEndTask.Infrastructure\\BackEndTask.Infrastructure.csproj",
+      "projectName": "BackEndTask.Infrastructure",
+      "projectPath": "D:\\BackEndTask\\BackEndTask.Infrastructure\\BackEndTask.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\BackEndTask\\BackEndTask.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\BackEndTask\\BackEndTask.Application\\BackEndTask.Application.csproj": {
+              "projectPath": "D:\\BackEndTask\\BackEndTask.Application\\BackEndTask.Application.csproj"
+            },
+            "D:\\BackEndTask\\BackEndTask.Domain\\BackEndTask.Domain.csproj": {
+              "projectPath": "D:\\BackEndTask\\BackEndTask.Domain\\BackEndTask.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

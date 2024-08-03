@@ -1,0 +1,11 @@
+D:\BackEndTask\BackEndTask.Domain\bin\Debug\net8.0\BackEndTask.Domain.deps.json
+D:\BackEndTask\BackEndTask.Domain\bin\Debug\net8.0\BackEndTask.Domain.dll
+D:\BackEndTask\BackEndTask.Domain\bin\Debug\net8.0\BackEndTask.Domain.pdb
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.AssemblyInfoInputs.cache
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.AssemblyInfo.cs
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.csproj.CoreCompileInputs.cache
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.dll
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\refint\BackEndTask.Domain.dll
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\BackEndTask.Domain.pdb
+D:\BackEndTask\BackEndTask.Domain\obj\Debug\net8.0\ref\BackEndTask.Domain.dll

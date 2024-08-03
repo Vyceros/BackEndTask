@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BackEndTask.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BackEndTask.Application": "1.0.0",
+          "BackEndTask.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BackEndTask.Infrastructure.dll": {}
+        }
+      },
+      "BackEndTask.Application/1.0.0": {
+        "dependencies": {
+          "BackEndTask.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BackEndTask.Application.dll": {}
+        }
+      },
+      "BackEndTask.Domain/1.0.0": {
+        "runtime": {
+          "BackEndTask.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackEndTask.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEndTask.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackEndTask.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
