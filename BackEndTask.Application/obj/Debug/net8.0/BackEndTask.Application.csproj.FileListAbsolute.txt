@@ -8,9 +8,9 @@ D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.AssemblyInfoInputs.cache
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.AssemblyInfo.cs
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.csproj.CoreCompileInputs.cache
+D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.sourcelink.json
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.csproj.CopyComplete
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.dll
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\refint\BackEndTask.Application.dll
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.pdb
 D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\ref\BackEndTask.Application.dll
-D:\BackEndTask\BackEndTask.Application\obj\Debug\net8.0\BackEndTask.Application.sourcelink.json

@@ -8,26 +8,32 @@ internal class ApplicationDbContext(DbContextOptions<ApplicationDbContext> optio
  : DbContext(options)
 {
     internal DbSet<User> Users { get; set; }
-    internal DbSet<Posts> Posts { get; set; }
-    internal DbSet<Comments> Comments { get; set; }
+    internal DbSet<Post> Posts { get; set; }
+    internal DbSet<Comment> Comments { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
 
         modelBuilder.Entity<User>()
-        .HasMany(u => u.Posts)
-        .WithOne()
-        .HasForeignKey(p => p.UserId);
+                .HasMany(u => u.Posts)
+                .WithOne(p => p.User)
+                .HasForeignKey(p => p.UserId)
+                .OnDelete(DeleteBehavior.Restrict);
+
 
         modelBuilder.Entity<User>()
-        .HasMany(c => c.Comments)
-        .WithOne()
-        .HasForeignKey(k => k.UserId);
+            .HasMany(u => u.Comments)
+            .WithOne(c => c.User)
+            .HasForeignKey(c => c.UserId)
+            .OnDelete(DeleteBehavior.Restrict);
 
-        modelBuilder.Entity<Posts>()
-        .HasMany(c => c.Comments)
-        .WithOne()
-        .HasForeignKey(k => k.PostId);
+
+        modelBuilder.Entity<Post>()
+            .HasMany(p => p.Comments)
+            .WithOne(c => c.Post)
+            .HasForeignKey(c => c.PostId)
+            .OnDelete(DeleteBehavior.Cascade);
+
     }
 }
